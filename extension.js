@@ -57,7 +57,7 @@ class ScratchGPT {
           {
             opcode: 'advancedPrompt',
             blockType: Scratch.BlockType.REPORTER,
-            text: 'Ask to [chatID] prompt: [PROMPT]',
+            text: 'Ask to [chatID] prompt [PROMPT]',
             arguments: {
               PROMPT: {
                 type: Scratch.ArgumentType.STRING,
