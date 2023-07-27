@@ -19,7 +19,7 @@ Start by creating a chatbot with a name or ID
 
 Then, use this reporter to interact with it:
 
-<img src="https://lolemo.github.io/scratchGPT/img/block_27_7_2023-20_00_52.svg" width="100%" height="71"/>
+<img src="https://lolemo.github.io/scratchGPT/img/block_27_7_2023-20_19_46.svg" width="100%" height="71"/>
 
 Also, you can use this block to change the behabior of the chatbot:
 
