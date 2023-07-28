@@ -1,5 +1,5 @@
-# ScratchGPT
-The power of ChatGPT in your projects for free!
+# TurboGPT
+The power of GPT-3.5 in your projects for free!
 
 ## Installation
 To use this extension in turbowarp, open Add Extension > Custom Extension and paste this link
