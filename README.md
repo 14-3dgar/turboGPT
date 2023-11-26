@@ -1,5 +1,6 @@
-# TurboGPT
-The power of GPT-3.5 in your projects for free!
+# TurboGPT - Discontinued 
+Development of this extension has stopped due to openai patching all ways to use the chatgpt API without an API key.
+You are free to fork this project and keep developing it
 
 ## Installation
 To use this extension in turbowarp, open Add Extension > Custom Extension and paste this link
